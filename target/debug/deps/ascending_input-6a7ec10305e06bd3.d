@@ -1,0 +1,11 @@
+E:\rust_projects\particle-universe\target\debug\deps\libascending_input-6a7ec10305e06bd3.rmeta: C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src/lib.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\axis.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\bindings.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\button.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\frame_time.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\handler.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\keys.rs
+
+E:\rust_projects\particle-universe\target\debug\deps\ascending_input-6a7ec10305e06bd3.d: C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src/lib.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\axis.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\bindings.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\button.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\frame_time.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\handler.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\keys.rs
+
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src/lib.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\axis.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\bindings.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\button.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\frame_time.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\handler.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ascending_input-0.3.1\src\keys.rs:

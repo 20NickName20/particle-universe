@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\1522dfa7c1eb17c7e06112de3377c3c2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{220C95AB-B297-3781-ACED-9369155E3D72}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

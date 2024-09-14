@@ -1,0 +1,11 @@
+E:\rust_projects\particle-universe\target\release\deps\liblibc-8b4a9f4ef22d5f73.rmeta: C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src/lib.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\macros.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\fixed_width_ints.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\mod.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\msvc\mod.rs
+
+E:\rust_projects\particle-universe\target\release\deps\liblibc-8b4a9f4ef22d5f73.rlib: C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src/lib.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\macros.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\fixed_width_ints.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\mod.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\msvc\mod.rs
+
+E:\rust_projects\particle-universe\target\release\deps\libc-8b4a9f4ef22d5f73.d: C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src/lib.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\macros.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\fixed_width_ints.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\mod.rs C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\msvc\mod.rs
+
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src/lib.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\macros.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\fixed_width_ints.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\mod.rs:
+C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\msvc\mod.rs:

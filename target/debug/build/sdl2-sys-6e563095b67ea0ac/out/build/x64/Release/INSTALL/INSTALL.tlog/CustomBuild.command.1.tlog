@@ -1,0 +1,10 @@
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\1522DFA7C1EB17C7E06112DE3377C3C2\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

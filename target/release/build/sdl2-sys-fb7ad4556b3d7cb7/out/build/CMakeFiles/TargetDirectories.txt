@@ -1,0 +1,8 @@
+E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/sdl_headers_copy.dir
+E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/SDL2main.dir
+E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/SDL2.dir
+E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/SDL2_test.dir
+E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/uninstall.dir
+E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/INSTALL.dir
+E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/ALL_BUILD.dir
+E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/ZERO_CHECK.dir

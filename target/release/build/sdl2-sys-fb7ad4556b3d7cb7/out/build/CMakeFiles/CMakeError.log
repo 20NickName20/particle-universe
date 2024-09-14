@@ -1,0 +1,79 @@
+Determining if the __GLIBC__ exist failed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_08d20.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckSymbolExists.c
+E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8,28): error C2065: __GLIBC__: необъявленный идентификатор [E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\cmTC_08d20.vcxproj]
+
+
+File E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef __GLIBC__
+  return ((int*)(&__GLIBC__))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test HAVE_XINPUT_GAMEPAD_EX failed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_5e328.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  src.c
+E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\src.c(4,25): error C2061: синтаксическая ошибка: идентификатор "x1" [E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\cmTC_5e328.vcxproj]
+E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\src.c(4,25): error C2059: синтаксическая ошибка: ; [E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\cmTC_5e328.vcxproj]
+
+
+Source file was:
+
+      #include <windows.h>
+      #include <xinput.h>
+      XINPUT_GAMEPAD_EX x1;
+      int main(int argc, char **argv) { return 0; }
+Performing C SOURCE FILE Test HAVE_XINPUT_STATE_EX failed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_7454d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  src.c
+E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\src.c(4,23): error C2061: синтаксическая ошибка: идентификатор "s1" [E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\cmTC_7454d.vcxproj]
+E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\src.c(4,23): error C2059: синтаксическая ошибка: ; [E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\cmTC_7454d.vcxproj]
+
+
+Source file was:
+
+      #include <windows.h>
+      #include <xinput.h>
+      XINPUT_STATE_EX s1;
+      int main(int argc, char **argv) { return 0; }
+Performing C SOURCE FILE Test CHECK_CPU_ARCHITECTURE_X86 failed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/release/build/sdl2-sys-fb7ad4556b3d7cb7/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_56910.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  src.c
+E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\src.c(8,1): error C2065: choke: необъявленный идентификатор [E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\cmTC_56910.vcxproj]
+E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\src.c(8,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}" [E:\rust_projects\particle-universe\target\release\build\sdl2-sys-fb7ad4556b3d7cb7\out\build\CMakeFiles\CMakeTmp\cmTC_56910.vcxproj]
+
+
+Source file was:
+
+int main(int argc, char *argv[]) {
+#if defined(__i386__) || defined(__i486__) || defined(__i586__) || defined(__i686__) ||defined( __i386) || defined(_M_IX86)
+  return 0;
+#else
+  choke
+#endif
+}
+

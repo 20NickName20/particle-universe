@@ -1,0 +1,788 @@
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_ASSERT.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_assert.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_assert.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_ATOMIC.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_atomic.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_atomic.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_AUDIO.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_audio.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_audio.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_BITS.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_bits.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_bits.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_BLENDMODE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_blendmode.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_blendmode.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_CLIPBOARD.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_clipboard.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_clipboard.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_COPYING.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_copying.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_copying.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_CPUINFO.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_cpuinfo.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_cpuinfo.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_EGL.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_egl.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_egl.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_ENDIAN.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_endian.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_endian.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_ERROR.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_error.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_error.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_EVENTS.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_events.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_events.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_FILESYSTEM.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_filesystem.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_filesystem.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_GAMECONTROLLER.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_gamecontroller.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_gamecontroller.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_GESTURE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_gesture.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_gesture.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_GUID.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_guid.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_guid.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_HAPTIC.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_haptic.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_haptic.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_HIDAPI.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_hidapi.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_hidapi.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_HINTS.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_hints.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_hints.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_JOYSTICK.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_joystick.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_joystick.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_KEYBOARD.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_keyboard.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_keyboard.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_KEYCODE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_keycode.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_keycode.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_LOADSO.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_loadso.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_loadso.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_LOCALE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_locale.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_locale.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_LOG.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_log.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_log.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_MAIN.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_main.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_main.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_MESSAGEBOX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_messagebox.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_messagebox.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_METAL.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_metal.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_metal.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_MISC.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_misc.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_misc.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_MOUSE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_mouse.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_mouse.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_MUTEX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_mutex.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_mutex.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_NAME.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_name.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_name.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_OPENGL.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_opengl.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_opengl.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_OPENGL_GLEXT.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_opengl_glext.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_opengl_glext.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_OPENGLES.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_opengles.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_opengles.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_OPENGLES2.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_opengles2.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_opengles2.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_OPENGLES2_GL2.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_opengles2_gl2.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_opengles2_gl2.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_OPENGLES2_GL2EXT.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_opengles2_gl2ext.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_opengles2_gl2ext.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_OPENGLES2_GL2PLATFORM.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_opengles2_gl2platform.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_opengles2_gl2platform.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_OPENGLES2_KHRPLATFORM.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_opengles2_khrplatform.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_opengles2_khrplatform.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_PIXELS.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_pixels.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_pixels.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_PLATFORM.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_platform.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_platform.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_POWER.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_power.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_power.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_QUIT.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_quit.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_quit.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_RECT.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_rect.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_rect.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_RENDER.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_render.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_render.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_RWOPS.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_rwops.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_rwops.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_SCANCODE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_scancode.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_scancode.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_SENSOR.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_sensor.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_sensor.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_SHAPE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_shape.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_shape.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_STDINC.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_stdinc.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_stdinc.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_SURFACE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_surface.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_surface.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_SYSTEM.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_system.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_system.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_SYSWM.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_syswm.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_syswm.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_ASSERT.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_assert.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_assert.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_COMMON.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_common.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_common.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_COMPARE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_compare.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_compare.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_CRC32.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_crc32.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_crc32.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_FONT.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_font.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_font.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_FUZZER.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_fuzzer.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_fuzzer.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_HARNESS.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_harness.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_harness.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_IMAGES.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_images.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_images.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_LOG.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_log.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_log.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_MD5.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_md5.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_md5.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_MEMORY.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_memory.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_memory.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TEST_RANDOM.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_test_random.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_test_random.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_THREAD.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_thread.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_thread.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TIMER.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_timer.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_timer.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TOUCH.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_touch.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_touch.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_TYPES.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_types.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_types.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_VERSION.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_version.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_version.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_VIDEO.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_video.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_video.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\SDL_VULKAN.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/SDL_vulkan.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/SDL_vulkan.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\BEGIN_CODE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/begin_code.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/begin_code.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\536A4621F96875AC72CEBBCF08C5E0BA\CLOSE_CODE.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different C:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL/include/close_code.h E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/include/close_code.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\RUST_PROJECTS\PARTICLE-UNIVERSE\TARGET\DEBUG\BUILD\SDL2-SYS-6E563095B67EA0AC\OUT\BUILD\CMAKEFILES\1522DFA7C1EB17C7E06112DE3377C3C2\SDL_HEADERS_COPY.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\.CARGO\REGISTRY\SRC\INDEX.CRATES.IO-6F17D22BBA15001F\SDL2-SYS-0.37.0\SDL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/User/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.37.0/SDL -BE:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build --check-stamp-file E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

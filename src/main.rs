@@ -25,7 +25,7 @@ impl Particle {
         Particle {
             pos: pos,
             vel: Vec3::new(0.0, 0.0, 0.0),
-            acceleration: Vec3::new(0.01, 0.0, 0.01),
+            acceleration: Vec3::new(0.0, 0.0, 0.0),
             mass: mass,
             charge: charge
         }
@@ -35,7 +35,7 @@ impl Particle {
 const WINDOW_WIDTH: u32 = 800;
 const WINDOW_HEIGHT: u32 = 800;
 
-const TIME_FACTOR: f64 = 0.000000001;
+const TIME_FACTOR: f64 = 0.0000001;
 //const TIME_FACTOR: f64 = 1.0;
 
 const C: f64 = 299_792_458.0;
@@ -59,31 +59,28 @@ fn main() {
     let mut keyboard_map: HashMap<Keycode, bool> = HashMap::new();
 
     let mut particles: Vec<Particle> = Vec::new();
-    let mut camera_position = Vec3::new(-0.000005, 0.0, -0.000005);
-    let mut camera_scale = (WINDOW_HEIGHT as f64) * 100000.0;
+    let mut camera_position = Vec3::new(0.0, 0.0, 0.0);
+    let mut camera_scale = (WINDOW_HEIGHT as f64) * 1.0;
 
-    //for _ in 0..1 {
-    //    let x = rand::thread_rng().gen_range(0.0..1.0);
-    //    let z = rand::thread_rng().gen_range(0.0..1.0);
-    //    println!("x = {x}, z = {z}");
-    //    if rand::thread_rng().gen_bool(0.5) {
-    //        if rand::thread_rng().gen_bool(0.5) {
-    //            let particle = Particle::new(Vec3::new(x, 0.0, z), PROTON_MASS, PROTON_CHARGE);
-    //            particles.push(particle);
-    //        } else {
-    //            let particle = Particle::new(Vec3::new(x, 0.0, z), PROTON_MASS, 0.0);
-    //            particles.push(particle);
-    //        }
-    //    } else {
-    //        let particle = Particle::new(Vec3::new(x, 0.0, z), ELECTRON_MASS, ELECTRON_CHARGE);
-    //        particles.push(particle);
-    //    }
-    //    //let particle = Particle::new(Vec3::new(x, 0.0, z), PROTON_MASS, 0.0);
-    //    //particles.push(particle);
-    //}
-
-    particles.push(Particle::new(Vec3::new(0.0, 0.0, 0.0), PROTON_MASS, PROTON_CHARGE));
-    particles.push(Particle::new(Vec3::new(0.000001, 0.0, 0.000001), PROTON_MASS, PROTON_CHARGE));
+    for _ in 0..100 {
+        let x = rand::thread_rng().gen_range(0.0..1.0);
+        let z = rand::thread_rng().gen_range(0.0..1.0);
+        println!("x = {x}, z = {z}");
+        if rand::thread_rng().gen_bool(0.5) {
+            if rand::thread_rng().gen_bool(0.5) {
+                let particle = Particle::new(Vec3::new(x, 0.0, z), PROTON_MASS, PROTON_CHARGE);
+                particles.push(particle);
+            } else {
+                let particle = Particle::new(Vec3::new(x, 0.0, z), PROTON_MASS, 0.0);
+                particles.push(particle);
+            }
+        } else {
+            let particle = Particle::new(Vec3::new(x, 0.0, z), ELECTRON_MASS, ELECTRON_CHARGE);
+            particles.push(particle);
+        }
+        //let particle = Particle::new(Vec3::new(x, 0.0, z), PROTON_MASS, 0.0);
+        //particles.push(particle);
+    }
 
     let sdl_context = sdl2::init().unwrap();
     let video_subsystem = sdl_context.video().unwrap();
@@ -149,10 +146,7 @@ fn main() {
 
                 let dist_sq = particle.pos.dist_sq(particle2.pos);
                 let dist = dist_sq.sqrt();
-                if dist < 0.0001 {
-                    println!("close :3");
-                }
-
+                
                 let force_vec = (particle2.pos - particle.pos) / dist;
 
                 let gravitational_force_scale = G * particle.mass * particle2.mass / dist_sq;

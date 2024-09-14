@@ -1,0 +1,350 @@
+The system is: Windows - 10.0.19045 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: ;-nologo;-MD;-Brepro
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 21.08.2024 20:40:58.
+Проект "E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+VcpkgTripletSelection:
+  Using triplet "x64-windows" from "E:\vcpkg\vcpkg\installed\x64-windows\"
+  Using normalized configuration "Release"
+ClCompile:
+  E:\vsc\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64\CL.exe /c /I"E:\vcpkg\vcpkg\installed\x64-windows\include" /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  E:\vsc\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"E:\vcpkg\vcpkg\installed\x64-windows\lib" /LIBPATH:"E:\vcpkg\vcpkg\installed\x64-windows\lib\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "E:\vcpkg\vcpkg\installed\x64-windows\lib\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdC\CompilerIdC.exe
+AppLocalFromInstalled:
+  pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\vcpkg\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdC\CompilerIdC.exe" "E:\vcpkg\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdC.tlog\CompilerIdC.write.1u.tlog" "Debug\vcpkg.applocal.log"
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
+  Выход из команды "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\vcpkg\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdC\CompilerIdC.exe" "E:\vcpkg\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdC.tlog\CompilerIdC.write.1u.tlog" "Debug\vcpkg.applocal.log"" с кодом 9009.
+  "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\vcpkg\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdC\CompilerIdC.exe" "E:\vcpkg\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdC.tlog\CompilerIdC.write.1u.tlog" "Debug\vcpkg.applocal.log"
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=E:\vsc\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdC.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Сборка проекта "E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdC\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:02.90
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/3.23.0-rc1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: ;-nologo;-MD;-Brepro
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+Сборка начата 21.08.2024 20:41:01.
+Проект "E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+PrepareForBuild:
+  Создание каталога "Debug\".
+  Создание каталога "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Создание "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+VcpkgTripletSelection:
+  Using triplet "x64-windows" from "E:\vcpkg\vcpkg\installed\x64-windows\"
+  Using normalized configuration "Release"
+ClCompile:
+  E:\vsc\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64\CL.exe /c /I"E:\vcpkg\vcpkg\installed\x64-windows\include" /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  E:\vsc\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"E:\vcpkg\vcpkg\installed\x64-windows\lib" /LIBPATH:"E:\vcpkg\vcpkg\installed\x64-windows\lib\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "E:\vcpkg\vcpkg\installed\x64-windows\lib\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdCXX\CompilerIdCXX.exe
+AppLocalFromInstalled:
+  pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\vcpkg\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdCXX\CompilerIdCXX.exe" "E:\vcpkg\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdCXX.tlog\CompilerIdCXX.write.1u.tlog" "Debug\vcpkg.applocal.log"
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
+  Выход из команды "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\vcpkg\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdCXX\CompilerIdCXX.exe" "E:\vcpkg\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdCXX.tlog\CompilerIdCXX.write.1u.tlog" "Debug\vcpkg.applocal.log"" с кодом 9009.
+  "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\vcpkg\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdCXX\CompilerIdCXX.exe" "E:\vcpkg\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdCXX.tlog\CompilerIdCXX.write.1u.tlog" "Debug\vcpkg.applocal.log"
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=E:\vsc\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Файл "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" удаляется.
+  Обращение к "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Сборка проекта "E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\3.23.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.32
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/3.23.0-rc1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b2c92.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CMakeCCompilerABI.c
+  cmTC_b2c92.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_b2c92.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_5f702.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CMakeCXXCompilerABI.cpp
+  cmTC_5f702.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_5f702.exe
+
+
+
+Determining if the include file immintrin.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_d6fc6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_d6fc6.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_d6fc6.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8c9be.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_8c9be.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_8c9be.exe
+
+
+
+Performing C SOURCE FILE Test HAVE_WIN32_CC succeeded with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8506b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  src.c
+  cmTC_8506b.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_8506b.exe
+
+
+Source file was:
+
+    #include <windows.h>
+    int main(int argc, char **argv) { return 0; }
+Determining if the include file d3d9.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e826a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_e826a.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_e826a.exe
+
+
+
+Determining if the include file d3d11_1.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_78555.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_78555.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_78555.exe
+
+
+
+Performing C SOURCE FILE Test HAVE_D3D12_H succeeded with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_bd4c5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  src.c
+  cmTC_bd4c5.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_bd4c5.exe
+
+
+Source file was:
+
+      #include <winsdkver.h>
+      #include <sdkddkver.h>
+      #include <d3d12.h>
+      ID3D12Device1 *device;
+      #if WDK_NTDDI_VERSION > 0x0A000008
+      int main(int argc, char **argv) { return 0; }
+      #endif
+Determining if the include file ddraw.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_2e801.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_2e801.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_2e801.exe
+
+
+
+Determining if the include file dsound.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_daa95.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_daa95.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_daa95.exe
+
+
+
+Determining if the include file dinput.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_c9fb7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  cmTC_c9fb7.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_c9fb7.exe
+
+
+
+Determining if the include file dxgi.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e8eea.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_e8eea.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_e8eea.exe
+
+
+
+Performing C SOURCE FILE Test HAVE_XINPUT_H succeeded with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_13ddc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  src.c
+  cmTC_13ddc.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_13ddc.exe
+
+
+Source file was:
+
+      #include <windows.h>
+      #include <xinput.h>
+      int main(int argc, char **argv) { return 0; }
+Performing C SOURCE FILE Test HAVE_WINDOWS_GAMING_INPUT_H succeeded with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_cf9f4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  src.c
+  cmTC_cf9f4.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_cf9f4.exe
+
+
+Source file was:
+
+      #define COBJMACROS
+      #include <windows.gaming.input.h>
+      __x_ABI_CWindows_CGaming_CInput_CIGamepadStatics2 *s2;
+      int main(int argc, char **argv) { return 0; }
+Determining if the include file tpcshrd.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_eb178.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_eb178.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_eb178.exe
+
+
+
+Determining if the include file roapi.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_7f993.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_7f993.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_7f993.exe
+
+
+
+Determining if the include file mmdeviceapi.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_9f6d1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_9f6d1.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_9f6d1.exe
+
+
+
+Determining if the include file audioclient.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_59c11.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_59c11.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_59c11.exe
+
+
+
+Determining if the include file sensorsapi.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_53ac3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_53ac3.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_53ac3.exe
+
+
+
+Determining if the include file shellscalingapi.h exists passed with the following output:
+Change Dir: E:/rust_projects/particle-universe/target/debug/build/sdl2-sys-6e563095b67ea0ac/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/vsc/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_76ab6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.0.0+c9eb9dd64 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  CheckIncludeFile.c
+  cmTC_76ab6.vcxproj -> E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-6e563095b67ea0ac\out\build\CMakeFiles\CMakeTmp\Debug\cmTC_76ab6.exe
+
+
+

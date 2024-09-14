@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_assert.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_atomic.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_audio.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_bits.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_blendmode.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_clipboard.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_copying.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_cpuinfo.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_egl.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_endian.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_error.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_events.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_filesystem.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_gamecontroller.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_gesture.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_guid.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_haptic.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_hidapi.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_hints.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_joystick.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_keyboard.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_keycode.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_loadso.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_locale.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_log.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_main.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_messagebox.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_metal.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_misc.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_mouse.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_mutex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_name.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_opengl.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_opengl_glext.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_opengles.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_opengles2.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_opengles2_gl2.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_opengles2_gl2ext.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_opengles2_gl2platform.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_opengles2_khrplatform.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_pixels.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_platform.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_power.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_quit.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_rect.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_render.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_rwops.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_scancode.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_sensor.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_shape.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_stdinc.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_surface.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_system.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_syswm.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_assert.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_common.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_compare.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_crc32.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_font.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_fuzzer.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_harness.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_images.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_log.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_md5.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_memory.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_test_random.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_thread.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_timer.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_touch.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_types.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_version.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_video.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\SDL_vulkan.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\begin_code.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\561f1f7eb37a46954daba400bc756c8f\close_code.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\a21ee28920e1aab39ff11ad796ba4e84\sdl_headers_copy.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sdl2-sys-0.37.0\SDL\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\rust_projects\particle-universe\target\debug\build\sdl2-sys-eaede7bb97e6bbe4\out\build\CMakeFiles\sdl_headers_copy" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{91330714-47CF-3017-ADAF-927880C37715}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
